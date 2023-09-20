@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Painge</string>
+    <string name="equal_sign">=</string>
+    <string name="placeholder">000000000</string>
+    <string name="addition">Sum</string>
+    <string name="subtraction">Difference</string>
+    <string name="multiplication">Product</string>
+    <string name="division">Quotient</string>
+    <string name="arithmetic">Arithmetic Operations</string>
+    <string name="choice">Choose your application:</string>
+    <string name="choice2">A (left) or B (right)?</string>
+    <string name="operations">I/O Operations</string>
+    <string name="operations2">I/O Operations — A</string>
+    <string name="arithmetic2">Arithmetic Operations — B</string>
+    <string name="clear">CLEAR</string>
+    <string name="insert_thing">Type…</string>
+    <string name="submit">Submit</string>
+    <string name="name_insert">Enter your name:</string>
+    <string name="return_string"><![CDATA[< Return]]></string>
+</resources>
